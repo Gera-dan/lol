@@ -1,2 +1,2 @@
-# gera-dan.github.com
+# pagina oficial de Gera
 my Web page
